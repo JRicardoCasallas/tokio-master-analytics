@@ -1,0 +1,16 @@
+# Python bytecode y caché
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración de sistema operativo
+desktop.ini
+.DS_Store
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+
+# Archivos temporales o de reportes de ejecución local
+reporte_*.txt
